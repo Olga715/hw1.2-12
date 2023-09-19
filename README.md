@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/e7g04htxl96q2uud?svg=true)](https://ci.appveyor.com/project/Olga715/hw1-2-12-9qnk0)
+[![Build status](https://ci.appveyor.com/api/projects/status/4racj0u5weifliv6?svg=true)](https://ci.appveyor.com/project/Olga715/hw1-2-12-sdw00)
